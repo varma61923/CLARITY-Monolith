@@ -1,6 +1,6 @@
 # CLARITY: Censorship-Resistant Ledger for Anonymous Reporting, Integrity, and Truth for You
 
-Welcome to CLARITY, a decentralized platform for journalists and whistleblowers to publish news anonymously, free from censorship. Built on Ethereum, IPFS, and DAO governance, CLARITY ensures truth and transparency with human-authored content.
+Welcome to CLARITY, a decentralized platform for journalists and whistleblowers to publish news anonymously, free from censorship. Built on Ethereum, IPFS, and DAO governance, CLARITY ensures truth and transparency with human authored content.
 
 This README guides you through setting up, deploying, and using CLARITY. It's designed for everyone—developers, journalists, or curious users—to get started easily.
 
